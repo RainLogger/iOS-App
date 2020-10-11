@@ -1,0 +1,164 @@
+[
+    {
+        "title": "20000 Lines of C",
+        "category": "Collection",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": true,
+        "bookBuckCost": 1.0,
+        "imageName": "20000-lines-of-c"
+    },
+    {
+        "title": "Arrays in the Sun",
+        "category": "Collection",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "arrays-in-the-sun"
+    },
+    {
+        "title": "Binary New World",
+        "category": "Collection",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "bookBuckCost": 1.0,
+        "imageName": "binary-new-world"
+    },
+    {
+        "title": "A Brief History of Datetime",
+        "category": "Collection",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": true,
+        "bookBuckCost": 1.0,
+        "imageName": "brief-history-of-datetime"
+    },
+    {
+        "title": "Catch 10110",
+        "category": "Collection",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "catch-10110"
+    },
+    {
+        "title": "Fear and Debugging in Las Vegas",
+        "category": "Collection",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "fear-and-debugging-in-las-vegas"
+    },
+    {
+        "title": "Infinite Loop",
+        "category": "Seasonal",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "infinite-loop",
+    },
+    {
+        "title": "Jane Error",
+        "category": "Collection",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "jane-error"
+    },
+    {
+        "title": "Lord of the Files",
+        "category": "Collection",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "lord-of-the-files"
+    },
+    {
+        "title": "Me Code Pretty One Day",
+        "category": "Collection",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "me-code-pretty-one-day"
+    },
+    {
+        "title": "Pride and Polymorphism",
+        "category": "Collection",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "pride-and-polymorphism"
+    },
+    {
+        "title": "Site Runner",
+        "category": "Seasonal",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "site-runner"
+    },
+    {
+        "title": "Source Code 5",
+        "category": "Collection",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "source-code-5"
+    },
+    {
+        "title": "Switch Expr Jekyl Hyde",
+        "category": "Collection",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "switch-expr-jekyl-hyde"
+    },
+    {
+        "title": "A Tale of Two Servers",
+        "category": "Collection",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "tale-of-two-servers"
+    },
+    {
+        "title": "The Bug Jar",
+        "category": "Collection",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "the-bug-jar"
+    },
+    {
+        "title": "The Hex Files",
+        "category": "Seasonal",
+        "id": 1017,
+        "isFeatured": true,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "the-hex-files"
+    },
+    {
+        "title": "War && Peace",
+        "category": "Collection",
+        "id": 1018,
+        "isFeatured": false,
+        "isFavorite": false,
+        "bookBuckCost": 1.0,
+        "imageName": "war-andand-peace"
+    }
+]
